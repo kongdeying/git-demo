@@ -7,4 +7,5 @@ int main()
 	cout << "fix-bug 分支修改" << endl;
 	cout << 10 + 11 << endl;
 	cout << "你好" << endl;
+	cout << 100 << endl;
 }
